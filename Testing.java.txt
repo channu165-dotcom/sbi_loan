@@ -1,4 +1,4 @@
 
 int n=30;
-
+int j=90;
 int a=20;
